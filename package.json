@@ -1,0 +1,22 @@
+{
+  "name": "react-native-contacts-helper",
+  "version": "1.0.0",
+  "description": "Its a simple component for accesssing contacts list.",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mdaslamansari2008/react-native-contacts-helper.git"
+  },
+  "keywords": [
+    "contacts",
+    "iOS"
+  ],
+  "author": "Aslam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mdaslamansari2008/react-native-contacts-helper/issues"
+  },
+  "homepage": "https://github.com/mdaslamansari2008/react-native-contacts-helper#readme"
+}
